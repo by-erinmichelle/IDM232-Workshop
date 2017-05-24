@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Fine Wine</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<h1>My Fine Wine</h1>
+
+<div class="wine-list">
+
+<ul class="wine-item">
+<li>Roberto Anselmi Veneto White San Vincenzo</li>
+<li>2013</li>
+<li class="descript">Rich and sumptuous, boasting pure flavors of cherry and raspberry, matched to a juicy texture. There are plenty of tannins neatly folded into the overall structure, with hints of mineral and tea on the long, expansive finish. Best from 2017 through 2024. 15,000 cases made. —BS</li>
+</ul>
+
+<ul class="price">
+	<li>$26</li>
+</ul>
+
+<ul class="score">
+	<li>92</li>
+</ul>
+
+<ul class="wine-item">
+<li>Joseph Drouhin St.-Véran</li>
+<li>2015</li>
+<li class="descript">AThis refreshing white offers a clear, focused mix of passion fruit, lime, mango and green apple flavors on a light, smooth body. Finishes with a succulent juiciness, showing echoes of lemon verbena. Drink now. 80,000 cases made. —MW</li>
+</ul>
+
+<ul class="price">
+	<li>$12</li>
+</ul>
+
+<ul class="score">
+	<li>90</li>
+</ul>
+
+<ul class="wine-item">
+<li>Bodegas Ontañon Viura Rioja Vetiver</li>
+<li>2014</li>
+<li class="descript">There's minerally freshness to the ripe dark plum, blackberry and cherry flavors, with peppery hints. Well-structured and crisp midpalate, featuring Asian spice and black fig notes on the finish. Drink now through 2020. 50,000 cases imported. —KM</li>
+</ul>
+
+<ul class="price">
+	<li>$13</li>
+</ul>
+
+<ul class="score">
+	<li>90</li>
+</ul>
+
+<ul class="wine-item">
+<li>Tenute di Eméra Primitivo di Manduria Antica Masseria del Sigillo</li>
+<li>2013</li>
+<li class="descript">Ripe, with vivid blueberry and boysenberry fruit, harnessed on the back end by a bold graphite edge. Anise and violet notes add range. Drink now through 2019. 25,000 cases made. —JM</li>
+</ul>
+
+<ul class="price">
+	<li>$16</li>
+</ul>
+
+<ul class="score">
+	<li>91</li>
+</ul>
+
+<ul class="wine-item">
+<li>Bodega Colomé Malbec Salta Auténtico</li>
+<li>2015</li>
+<li class="descript">This zeroes in on a rich, hedonistic core of wild berry, blackberry, plum and currant flavors, with a graceful, elegant mouthfeel and supple, caressing tannins. The long and powerful yet refined aftertaste keeps reverberating fruit generosity while maintaining Cabernet's strength of personality. Drink now through 2030. 21,249 cases made. —JL</li>
+</ul>
+
+<ul class="price">
+	<li>$160</li>
+</ul>
+
+<ul class="score">
+	<li>99</li>
+</ul>
+
+<ul class="wine-item">
+<li>La Rioja Alta Rioja 904 Gran Reserva</li>
+<li>2014</li>
+<li class="descript">Tangy and zingy, with lively acidity that balances against gobs of ripe pear and apricot flavors, carrying through the long, lime-accented finish. Drink now through 2020. 160,000 cases made. —HS</li>
+</ul>
+
+<ul class="price">
+	<li>$12</li>
+</ul>
+
+<ul class="score">
+	<li>90</li>
+</ul>
+
+<ul class="wine-item">
+<li>Domaine Huët Vouvray Moelleux Clos du Bourg Première Trie</li>
+<li>2013</li>
+<li class="descript">A crisp and minerally red, with concentrated flavors of dark cherry, roasted plum and dried raspberry, layered with rich, spicy notes. White chocolate details show on the finish, accented by hints of pepper. Drink now through 2020. 208,000 cases made. —KM</li>
+</ul>
+
+<ul class="price">
+	<li>$10</li>
+</ul>
+
+<ul class="score">
+	<li>94</li>
+</ul>
+
+<ul class="wine-item">
+<li>Hahn Pinot Noir Santa Lucia Highlands SLH</li>
+<li>2015</li>
+<li class="descript">TUltrarich, layered and tightly focused on a dense core of meaty blackberry, currant, loamy earth, anise, crushed rock and graphite notes. For all the flavor and depth, this features a persistent finish that folds in smoky, toasty oak, adding an extra dimension of texture, flavor and aroma. Drink now through 2028. 4,723 cases made. —JL</li>
+</ul>
+
+<ul class="price">
+	<li>$80</li>
+</ul>
+
+<ul class="score">
+	<li>92</li>
+</ul>
+
+<ul class="wine-item">
+<li>Lemelson Pinot Noir Willamette Valley Thea's Selection</li>
+<li>2010</li>
+<li class="descript">Very pure and chiseled, with gooseberry, straw and flint flavors tightly coiled, driven by a mouthwatering fleur de sel note through the long, bone-dry finish, which is built on minerality. Drink now through 2021. 7,000 cases imported. —JM</li>
+</ul>
+
+<ul class="price">
+	<li>$26</li>
+</ul>
+
+<ul class="score">
+	<li>96</li>
+</ul>
+
+<ul class="wine-item">
+<li>CARM Douro Reserva</li>
+<li>2012</li>
+<li class="descript">Suave and rich, showing luscious sandalwood notes to the dried cherry and raspberry flavors. The creamy finish lingers with cocoa powder and white pepper accents. Drink now through 2020. 15,000 cases made. —KM</li>
+</ul>
+
+<ul class="price">
+	<li>$22</li>
+</ul>
+
+<ul class="score">
+	<li>91</li>
+</ul>
+
+</div>
+
+</body>
+</html>
